@@ -1,0 +1,6 @@
+# Ignore all dot files and directories
+.*
+# But don't ignore .gitignore
+!.gitignore
+
+.dl_with_python/
